@@ -19,4 +19,4 @@ Sizes are just available for special usages:
 
 **Small** → We recommend to use this size especially for icons or for buttons that needs to look like a link.
 
-Every icon should be used as a button. The button contains the minimum touchable area.
+> Every icon should be used as a button. The button contains the minimum touchable area.

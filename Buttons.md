@@ -3,8 +3,8 @@
 
 # Buttons
 
-## Styles
-We have three different styles in our buttons. Use the primary always, but for some specific cases you have available the secondary buttons and the ghost buttons.
+## Types
+We have three different types in our buttons. Use the primary always, but for some specific cases you have available the secondary buttons and the ghost buttons.
 
 **Primary** → This is our main action.
 

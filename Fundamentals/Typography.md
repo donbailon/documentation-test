@@ -1,6 +1,11 @@
 # Typography
 Typography is the most direct way we communicate with our users. It’s used across all products & platforms and needs to serve a large amount of purposes on various different devices.
 
+The font that we are using for our product is `GT America`.
+> If you don't have the font, please contact @alex.bailon
+
+<br>
+
 | Headings | Name | Size | Line height | Figures | 
 | :- | :- | :- | :- | - | 
 | <br>![image](https://user-images.githubusercontent.com/8384392/154519444-6e9a5052-8016-4649-b162-5ffee15ce059.png) | h1-capital | 48px | 60px | Tabular |

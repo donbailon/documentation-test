@@ -2,7 +2,7 @@
 Typography is the most direct way we communicate with our users. It’s used across all products & platforms and needs to serve a large amount of purposes on various different devices.
 
 The font that we are using for our product is `GT America`.
-> If you don't have the font, please contact @alex.bailon
+> If you don't have the font, please contact **@alex.bailon**
 
 <br>
 

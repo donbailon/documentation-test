@@ -26,7 +26,8 @@ Sizes are just available for special usages:
 <br>
 
 ## Icons
-Use icon buttons when you want to launch an action directly from an icon.\
+Use icon buttons when you want to launch an action directly from an icon.
+
 If you need to use an icon that doesn't need to loock like a button but it needs to be interactive, please, use the **ghost button** icon for that purposes.
 
 > Buttons contains the minimum touchable area for icons.

@@ -8,25 +8,20 @@ Use buttons to launch actions.
 ## Types
 We have three different types in our buttons. Use the primary always, but for some specific cases you have available the secondary buttons and the ghost buttons.
 
-**Primary**  
-This is our main action.
+`Primary` → This is our main action.
 
-**Secondary**  
-Use the secondary button when you have one primary action in your screen and you need more actions there.
+`Secondary` → Use the secondary button when you have one primary action in your screen and you need more actions there.
 
-**Ghost**  
-This style is the one recommended when you want to use some kind of “link” style or buttons with less prominence
+`Ghost` → This style is the one recommended when you want to use some kind of “link” style or buttons with less prominence
 
 <br>
 
 ## Sizes
 Sizes are just available for special usages:
 
-**Default**  
-Use this size always as possible.
+`Default` → Use this size always as possible.
 
-**Small**  
-We recommend to use this size especially for icons or for buttons that needs to look like a link.
+`Small` → We recommend to use this size especially for icons or for buttons that needs to look like a link.
 
 <br>
 
@@ -41,18 +36,13 @@ If you need to use an icon that doesn't need to loock like a button but it needs
 ## States
 All buttons have five states: 
 
-**Rest**  
-This is the default state of a button when nothing happens around it.
+`Rest` → This is the default state of a button when nothing happens around it.
 
-**Hover**  
-This style is defined when a cursor is passing through the button area.
+`Hover` → This style is defined when a cursor is passing through the button area.
 
-**Pressed**  
-This style is defined when a click or tap interact with the button.
+`Pressed` → This style is defined when a click or tap interact with the button.
 
-**Focus**  
-This style is defined for accessibility purposes when you select the icon. 
+`Focus` → This style is defined for accessibility purposes when you select the icon. 
 
-**Disabled**  
-This style is to show that the button is not actionable and the user cannot trigger any action with it.
+`Disabled` → This style is to show that the button is not actionable and the user cannot trigger any action with it.
 

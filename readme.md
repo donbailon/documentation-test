@@ -11,4 +11,4 @@ The purpose of this test is to make a stress test the Github markdown options fo
 #### Cons
 ❌ Basic knowledge of markdown and how Github works.\
 ❌ Only developers have Github access.\
-❌ Limited to markdown possibilities.\
+❌ Limited to markdown possibilities.

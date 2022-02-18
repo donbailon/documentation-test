@@ -8,7 +8,7 @@ The font that we are using for our product is `GT America`.
 
 # Headings
 
-| Headings | Name | Weight | Size | Line height | Figures | 
+|  | Name | Weight | Size | Line height | Figures | 
 | :- | :- | :-: | :-: | :-: | :- | 
 | <br>![image](https://user-images.githubusercontent.com/8384392/154519444-6e9a5052-8016-4649-b162-5ffee15ce059.png) | h1-capital | Regular | 48px | 60px | Tabular |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154519891-0c373ad2-8ab7-42d3-8159-8c7a8f1ced44.png) | h2-title-big | Medium | 34px | 44px | Tabular |
@@ -20,7 +20,7 @@ The font that we are using for our product is `GT America`.
 
 # Body
 
-| Body | Name | Weight | Size | Line height | Figures | 
+|  | Name | Weight | Size | Line height | Figures | 
 | :- | :- | :-: | :-: | :-: | :- | 
 | <br>![image](https://user-images.githubusercontent.com/8384392/154661408-19b7dfe9-bf1f-4ed0-a043-3866ca535d9d.png) | body-default | Regular | 16px | 20px | Proportional |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154661634-60512bcd-fae8-47e4-9b7a-39e6ca96d33e.png) | body-spaced | Regular | 16px | 28px | Proportional |
@@ -36,7 +36,7 @@ The font that we are using for our product is `GT America`.
 
 # Buttons
 
-| Buttons | Name | Weight | Size | Line height | Figures | 
+|  | Name | Weight | Size | Line height | Figures | 
 | :- | :- | :-: | :-: | :-: | :- | 
 | <br>![image](https://user-images.githubusercontent.com/8384392/154663109-5de0ff89-2051-4683-9ce1-7255ec778999.png) | button-default | Regular | 16px | 24px | Proportional |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154663183-a16ff6c1-54ae-4819-ace6-ad2c721d5811.png) | button-small | Medium | 14px | 16px | Proportional |

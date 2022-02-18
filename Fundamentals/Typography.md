@@ -7,7 +7,7 @@ The font that we are using for our product is `GT America`.
 <br>
 
 | Headings | Name | Size | Line height | Figures | 
-| :- | :- | :- | :- | - | 
+| :- | :- | :-: | :-: | :- | 
 | <br>![image](https://user-images.githubusercontent.com/8384392/154519444-6e9a5052-8016-4649-b162-5ffee15ce059.png) | h1-capital | 48px | 60px | Tabular |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154519891-0c373ad2-8ab7-42d3-8159-8c7a8f1ced44.png) | h2-title-big | 34px | 44px | Tabular |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154525779-29741569-697e-4eb0-8529-9e9a68547678.png)| h3-title-standard | 24px | 32px | Proportional |

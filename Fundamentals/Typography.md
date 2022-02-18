@@ -6,6 +6,15 @@ The font that we are using for our product is `GT America`.
 
 <br>
 
+### Sections
+
+[Headings](#headings)\
+[Body](#body)\
+[Buttons](#buttons)\
+[Things to consider](#things-to-consider)
+
+<br>
+
 # Headings
 
 |  | Name | Weight | Size | Line height | Figures | 

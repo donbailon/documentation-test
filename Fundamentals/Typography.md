@@ -10,7 +10,7 @@ The font that we are using for our product is `GT America`.
 
 | Headings | Name | Weight | Size | Line height | Figures | 
 | :- | :- | :-: | :-: | :-: | :- | 
-| <br>![image](https://user-images.githubusercontent.com/8384392/154519444-6e9a5052-8016-4649-b162-5ffee15ce059.png) | h1-capital | Medium | 48px | 60px | Tabular |
+| <br>![image](https://user-images.githubusercontent.com/8384392/154519444-6e9a5052-8016-4649-b162-5ffee15ce059.png) | h1-capital | Regular | 48px | 60px | Tabular |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154519891-0c373ad2-8ab7-42d3-8159-8c7a8f1ced44.png) | h2-title-big | Medium | 34px | 44px | Tabular |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154525779-29741569-697e-4eb0-8529-9e9a68547678.png)| h3-title-standard | Medium | 24px | 32px | Proportional |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154526175-bc1393f2-2ac0-4a0c-a85d-5953d3bf4668.png) | h4-title-small | Medium | 18px | 24px | Proportional | 
@@ -40,3 +40,10 @@ The font that we are using for our product is `GT America`.
 | :- | :- | :-: | :-: | :-: | :- | 
 | <br>![image](https://user-images.githubusercontent.com/8384392/154663109-5de0ff89-2051-4683-9ce1-7255ec778999.png) | button-default | Regular | 16px | 24px | Proportional |
 | <br>![image](https://user-images.githubusercontent.com/8384392/154663183-a16ff6c1-54ae-4819-ace6-ad2c721d5811.png) | button-small | Medium | 14px | 16px | Proportional |
+
+<br>
+
+### Things to consider
+
+- all line heights must be divisible by 4 / adhere to '4px grid'
+- all letter spacing is set to 'auto'
